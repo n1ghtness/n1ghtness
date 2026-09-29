@@ -11,5 +11,3 @@ I'm a student and aspiring software developer from Brazil, currently learning Py
 
 ---
 [![](https://komarev.com/ghpvc/?username=n1ghtness&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/n1ghtness/n1ghtness/blob/output/github-contribution-grid-snake.gif)
